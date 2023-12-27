@@ -1,4 +1,11 @@
 package com.practices.collections
 
-class SetInterfaceTest {
+fun main() {
+    // set contains the specific
+    setFunction()
+}
+
+private fun setFunction() {
+    val setCollections = mutableSetOf("as", "as", "fg", "fg", "hello","asd","hello SockJs")
+    println(setCollections)
 }

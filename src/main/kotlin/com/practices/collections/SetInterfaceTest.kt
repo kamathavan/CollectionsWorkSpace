@@ -6,6 +6,6 @@ fun main() {
 }
 
 private fun setFunction() {
-    val setCollections = mutableSetOf("as", "as", "fg", "fg", "hello","asd","hello SockJs")
+    val setCollections = mutableSetOf("as", "as", "fg", "fg", "hello","asd","hello hockJs")
     println(setCollections)
 }

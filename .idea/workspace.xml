@@ -42,6 +42,20 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SetInterfaceTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practices.collections.SetInterfaceTestKt" />
+      <module name="CollectionWorkSpace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.SetInterfaceTestKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +73,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703671697742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init project">
+      <option name="closed" value="true" />
+      <created>1703672334481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703672334481</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init project">
+      <option name="closed" value="true" />
+      <created>1703672399298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703672399298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
